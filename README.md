@@ -6,5 +6,6 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 
 ### 800 Rating
 - [x] 1903A - Halloumi Boxes
+- [x] 1901A - Line Trip
 
-Solved: 1/372
+Solved: 2/31
