@@ -8,4 +8,4 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1903A - Halloumi Boxes
 - [x] 1901A - Line Trip
 
-Solved: 2/31
+Solved: 4/31
