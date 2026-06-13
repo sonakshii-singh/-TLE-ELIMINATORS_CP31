@@ -20,5 +20,6 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1857A - Array Coloring
 - [x] 1853A - Desorting
 - [x] 1845A - Forbidden Integer
+- [x] 1837A - Grasshopper on a Line
 
-Solved: 15/31
+Solved: 16/31
