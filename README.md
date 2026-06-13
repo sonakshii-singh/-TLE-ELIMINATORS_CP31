@@ -12,5 +12,13 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1901A - Doremy's Paint 3
 - [x] 1881A - Don't Try to Count
 - [x] 1878A - Daytona Cost
+- [x] 1877A - Goals of Victory 
+- [x] 1866A - Ambitious Kid
+- [x] 1862B - Sequence Game
+- [x] 1859A - United We Stand
+- [x] 1858A - Buttons
+- [x] 1857A - Array Coloring
+- [x] 1853A - Desorting
+- [x] 1845A - Forbidden Integer
 
-Solved: 6/31
+Solved: 15/31
