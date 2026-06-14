@@ -22,5 +22,7 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1845A - Forbidden Integer
 - [x] 1837A - Grasshopper on a Line
 - [x] 1834A - Unit Array
+- [x] 1831A - Twin Permutations
 
-Solved: 17/31
+
+Solved: 18/31
