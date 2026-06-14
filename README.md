@@ -24,6 +24,7 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1834A - Unit Array
 - [x] 1831A - Twin Permutations
 - [x] 1829B - Black Space
+- [x] 1814A - Coins
 
 
-Solved: 19/31
+Solved: 20/31
