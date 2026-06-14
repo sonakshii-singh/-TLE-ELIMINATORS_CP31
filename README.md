@@ -23,6 +23,7 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1837A - Grasshopper on a Line
 - [x] 1834A - Unit Array
 - [x] 1831A - Twin Permutations
+- [x] 1829B - Black Space
 
 
-Solved: 18/31
+Solved: 19/31
