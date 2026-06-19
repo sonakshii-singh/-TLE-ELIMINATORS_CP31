@@ -32,6 +32,7 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1788A - One And Two
 - [x] 1783A - Make it Beautiful
 - [x] 1789A - Mocha's Array
+- [x] 1777A - Everybody Likes Good Arrays!
 
 
-Solved: 26/31
+Solved: 27/31
