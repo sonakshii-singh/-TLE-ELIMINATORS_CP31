@@ -7,7 +7,7 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 ### 800 Rating
 - [x] 1903A - Halloumi Boxes
 - [x] 1901A - Line Trip
-- [x] 1999A - Game eith Integers
+- [x] 1999A - Game with Integers
 - [x] 1996A - Jagged Swaps
 - [x] 1901A - Doremy's Paint 3
 - [x] 1881A - Don't Try to Count
@@ -25,11 +25,13 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1831A - Twin Permutations
 - [x] 1829B - Blank Space
 - [x] 1900A - Cover in Water
+- [x] 1814A - Coins
 - [x] 1806A - Walking Master
 - [x] 1805A - We Need the Zero
 - [x] 1791C - Prepend and Append
 - [x] 1788A - One And Two
+- [x] 1783A - Make it Beautiful
+- [x] 1789A - Mocha's Array
 
 
-
-Solved: 20/31
+Solved: 26/31
