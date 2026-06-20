@@ -1,8 +1,8 @@
-# 🚀 TLE Eliminators CP-31 Solutions
+#  TLE Eliminators CP-31 Solutions
 
 A collection of my solutions to the **TLE Eliminators CP-31 Sheet**, covering Codeforces problems rated **800**. This repository documents my progress in competitive programming and serves as a reference for fundamental problem-solving techniques.
 
-## 📊 Progress
+##  Progress
 
 | Rating | Solved  | Status        |
 | ------ | ------- | ------------- |
@@ -13,7 +13,7 @@ A collection of my solutions to the **TLE Eliminators CP-31 Sheet**, covering Co
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 * Implementation
 * Mathematics
@@ -73,13 +73,13 @@ Each file contains an accepted Codeforces solution along with clean and readable
 ---
 
 
-## 🏆 Achievement
+##  Achievement
 
-✅ Completed all **31 / 31** problems from the TLE Eliminators CP-31 800-rated sheet.
+ Completed all **31 / 31** problems from the TLE Eliminators CP-31 800-rated sheet.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Sonakshi Singh**
 
