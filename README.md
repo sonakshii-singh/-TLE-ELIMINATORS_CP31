@@ -34,6 +34,8 @@ Solutions to the TLE Eliminators CP-31 Sheet. This repository contains my Codefo
 - [x] 1789A - Mocha's Array
 - [x] 1777A - Everybody Likes Good Arrays!
 - [x] 1766A - Extremely Round
+- [x] 1761A - Two Permutations
+- [x] 1873C - Target Practice
 
 
-Solved: 28/31
+Solved: 31/31
