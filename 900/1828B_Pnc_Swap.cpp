@@ -15,7 +15,7 @@ int main() {
             int x;
             cin >> x;
 
-            ans = gcd(ans, abs(x - i));
+            ans = std::gcd(ans, abs(x - i));
         }
 
         cout << ans << '\n';
